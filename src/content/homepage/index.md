@@ -1,10 +1,10 @@
 ---
 banner:
-  title: "Scale design your Enterprise"
+  title: "Scale your Enterprise"
   content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
+    label: Download Our Free Guide
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
