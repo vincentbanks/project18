@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Scale your Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Let´s work together!"
+  content: "Your ultimate service provider"
   image: /images/banner-img.png
   button:
     label: Download Our Free Guide
